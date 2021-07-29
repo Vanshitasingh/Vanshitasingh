@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshitasingh&label=Profile%20views&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning how to use Google Tag manager along with Google Analytics 4.
+- 🌱 I’m currently learning how to use **Google Tag Manager** along with **Google Analytics 4**.
 - 👨‍💻 CSE student at *Veermata Jijabai Technological Institute(VJTI)*
 
 - 📫 How to reach me **singhvanshita898@gmail.com**
